@@ -4,8 +4,7 @@
 The Power BI report aims to provide a comprehensive analysis of 630 Data Professionals of average age of 29.87 across US, UK Canada, India and other countries. It consists of several interconnected visualizations, providing insights into key country of survey takers, average salary by job title, favorite programming language, difficulty to break into data, happiness with work/life balance and happiness with salary.
 
 ## Prerequisite
-Power BI Desktop
-Microsoft Excel
+Power BI Desktop, Microsoft Excel
 
 ## Tasks Performed
 1. Data Gathering
